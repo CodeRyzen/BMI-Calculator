@@ -1,2 +1,2 @@
 # BMI-Calculator
-BMI Calculator on Python
+Console BMI Calculator on Python
